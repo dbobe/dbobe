@@ -9,7 +9,7 @@ I've been always fascinated by technology. I learned how to code but also some g
 * 🌍  I'm based in Gainesville, VA
 * 🖥️  See my portfolio at [davidbobe.com](http://davidbobe.com)
 * ✉️  You can contact me at [bobe.david@live.com](mailto:bobe.david@live.com)
-* 🧠  I'm learning React Native, Expo, Firebase, Django
+* 🧠  I'm learning React Native, Expo, Firebase, Django, NextJs, Tailwind, etc.
 
 ### Skills
 
